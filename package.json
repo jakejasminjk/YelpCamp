@@ -1,10 +1,11 @@
 {
   "name": "v2",
   "version": "4.0.0",
-  "description": "YelpCamp version 3",
+  "description": "YelpCamp version 13Deployed",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
   },
   "author": "Kervens Jasmin",
   "license": "ISC",
